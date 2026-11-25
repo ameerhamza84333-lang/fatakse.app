@@ -1,0 +1,6 @@
+{
+  "name": "Fatakse",
+  "description": "Fatakse — Biryani ho ya Kirana, Fatak se ghar mangana! Hyperlocal food, chai, sweets, and grocery delivery app for Kundarki, Moradabad with Customer, Vendor, Delivery Partner, and Admin panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fatakse</string>
+    <string name="app_tagline">Biryani ho ya Kirana, Fatak se ghar mangana!</string>
+    <string name="location_default">Kundarki, Moradabad</string>
+    <string name="location_subtext">Pin 244413 • Delivery in 20–25 mins</string>
+    <string name="whatsapp_order">WhatsApp</string>
+    <string name="search_hint">Search biryani, masala chai, atta…</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_cart">Cart</string>
+    <string name="tab_orders">Orders</string>
+    <string name="tab_profile">Account</string>
+    <string name="role_customer">Customer</string>
+    <string name="role_vendor">Vendor</string>
+    <string name="role_delivery">Delivery</string>
+    <string name="role_admin">Admin</string>
+    <string name="mode_offline">Supabase Offline</string>
+    <string name="mode_live">Live Supabase</string>
+    <string name="detect_gps">Detect GPS Location</string>
+    <string name="place_order">Place Order</string>
+    <string name="view_cart">View Cart</string>
+    <string name="payment_cash_upi_qr">Cash / UPI QR on Delivery</string>
+    <string name="payment_cash_upi_qr_desc">Pay via Cash or scan UPI QR code when your order arrives</string>
+    <string name="vendor_orders">Incoming</string>
+    <string name="vendor_menu">Menu</string>
+    <string name="vendor_earnings">Earnings</string>
+    <string name="admin_overview">Overview</string>
+    <string name="admin_daily_hisab">Daily Hisab</string>
+    <string name="admin_dispatch">Dispatch</string>
+    <string name="admin_settings">Settings</string>
+</resources>
